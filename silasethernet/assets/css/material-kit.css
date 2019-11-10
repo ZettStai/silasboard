@@ -66,7 +66,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #c6c6c6;
   text-align: left;
   background-color: #fafafa;
 }
@@ -470,7 +470,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #a5a9ad;
   text-align: left;
   background-color: #fafafa;
 }
@@ -1886,7 +1886,7 @@ pre code {
 }
 
 .table .table {
-  background-color: #fafafa;
+  background-color: rgba(84, 84, 84, 0.7);
 }
 
 .table-sm th,
@@ -10917,7 +10917,7 @@ fieldset[disabled][disabled] .btn-group-raised .btn,
 
 body {
   background-color: #eee;
-  color: #3C4858;
+  color: #66768c;
   font-weight: 300;
 }
 
@@ -10939,18 +10939,18 @@ legend {
 }
 
 a {
-  color: #9c27b0;
+  color: #00a5bb;
 }
 
 a:hover,
 a:focus {
-  color: #89229b;
+  color: #00d5eb;
   text-decoration: none;
 }
 
 a.text-info:hover,
 a.text-info:focus {
-  color: #00a5bb;
+  color: #00c8de;
 }
 
 a .material-icons {
@@ -10958,7 +10958,7 @@ a .material-icons {
 }
 
 .main {
-  background: #FFFFFF;
+  background: #3b3b3b;
   position: relative;
   z-index: 3;
 }
@@ -14624,12 +14624,12 @@ textarea {
 }
 
 .info .info-title {
-  color: #3C4858;
+  color: #989898;
   margin: 1.75rem 0 0.875rem;
 }
 
 .info p {
-  color: #999999;
+  color: #c6c6c6;
 }
 
 .info-horizontal .icon {
@@ -14789,7 +14789,7 @@ small,
 .footer-big h4 a,
 .media .media-heading,
 .media .media-heading a {
-  color: #3C4858;
+  color: #dedede;
   text-decoration: none;
 }
 
@@ -14800,7 +14800,7 @@ h2.title {
 .description,
 .card-description,
 .footer-big p {
-  color: #999;
+  color: #c6c6c6;
 }
 
 .text-warning {
